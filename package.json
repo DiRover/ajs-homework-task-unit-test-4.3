@@ -1,0 +1,36 @@
+{
+  "name": "task-4.3",
+  "version": "1.0.0",
+  "description": "task-4.3",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiRover/ajs-homework-task-unit-test-4.3.git"
+  },
+  "keywords": [
+    "task-4.3"
+  ],
+  "author": "Dmitriy Rovenskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiRover/ajs-homework-task-unit-test-4.3/issues"
+  },
+  "homepage": "https://github.com/DiRover/ajs-homework-task-unit-test-4.3#readme",
+  "dependencies": {
+    "core-js": "^3.6.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.1.0"
+  }
+}

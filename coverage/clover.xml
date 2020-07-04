@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1593863674761" clover="3.2.0">
+  <project timestamp="1593863674761" name="All files">
+    <metrics statements="5" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1" elements="9" coveredelements="5" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
+    <file name="http.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-4.3\src\js\http.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+    </file>
+    <file name="level.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-4.3\src\js\level.js">
+      <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
